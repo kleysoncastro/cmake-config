@@ -4,5 +4,3 @@ project(greeter VERSION 0.1.0)
 
 add_subdirectory(lib/Print)
 add_subdirectory(bin)
-
-

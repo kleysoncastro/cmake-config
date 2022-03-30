@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../lib/Print/Print.h"
+#include "Print.h"
 int main() {
 
     print_hello();
