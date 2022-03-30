@@ -1,8 +1,9 @@
 #include <iostream>
-#include "Print.h"
+#include "../lib/mostra/print.h"
+
 int main() {
 
-    print_hello();
+print_hello();
    std::cout << "hello woerd\n";
 
     return 0;
