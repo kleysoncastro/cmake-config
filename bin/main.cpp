@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../lib/mostra/print.h"
+#include "print.h"
 
 int main() {
 
