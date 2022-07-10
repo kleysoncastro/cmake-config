@@ -3,8 +3,8 @@
 
 int main() {
 
-print_hello();
-   std::cout << "hello woerd\n";
+print_hello("fix eroo issues");
+
 
     return 0;
 
